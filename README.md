@@ -34,7 +34,7 @@ python3 main.py
 ```
 
 ## Changer le texte à analyser
-Le texte que l'algorithme ce trouve dans le fichier `text.txt`. 
+Le texte que l'algorithme analyse ce trouve dans le fichier `text.txt`. 
 ```text
 Adiós ríos, adiós fontes,
 Adiós regatos pequenos,
